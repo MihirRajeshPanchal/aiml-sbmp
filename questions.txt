@@ -1,0 +1,21 @@
+Questions I have
+1. Type of Talk: 
+   - Workshop (Hands on session to explore a specific topic)
+   - Theory Talk (Presentation of research or theoretical concepts)
+   - Showcase (Demonstration of projects or products)
+2. Will students bring out their own laptops? and where will the workshop be conducted?
+3. How many students are expected to attend?
+4. What is the target audience (Diploma, Bachelors) which year?
+5. What is the syllabus or topic to be covered?
+6. What are the prerequisites taught already?
+
+
+Tentative Schedule (3.30 - 5.30 pm 6th August 2025):
+1. McCulloch Pitts Neuron Model - 3:30 – 3:40 PM
+2. Perceptron - 3:40 – 3:50 PM
+3. Multi-layer Perceptron - 3:50 – 4:00 PM
+4. Text Embeddings - 4:00 – 4:15 PM
+5. Tokenization / Embeddings / Transformer Architecture - 4:15 – 4:25 PM
+6. Softmax and Temperature - 4:25 – 4:40 PM
+7. Hugging Face and Inference API (Code demonstration) - 4:40 – 5:20 PM
+8. Q&A and Wrap-up - 5:20 – 5:30 PM
